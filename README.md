@@ -1,2 +1,1 @@
-# Data-Science-Project-2-in-Python
-Hotel Rating Classification
+# Hotel Rating Classfication Project Preentation with Deployment in Streamlit
